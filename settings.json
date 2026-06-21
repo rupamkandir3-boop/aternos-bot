@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "BLACKNIGHTSSMP-vhsv.aternos.me",
+    "port": 47244,
     "version": "1.20.1",
     "try-creative": false
   },
